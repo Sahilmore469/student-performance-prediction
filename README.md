@@ -106,9 +106,6 @@ jupyter notebook Student_Performance_Analysis.ipynb
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
